@@ -1,0 +1,5 @@
+org/example/DataPointExtractor.class
+org/example/PDFSummaryExtractor.class
+org/example/TextSummarizer.class
+org/example/PDFExtractor.class
+org/example/TextPreprocessor.class
